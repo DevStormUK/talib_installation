@@ -9,7 +9,7 @@ Steps:
 
 download from https://mrjbq7.github.io/ta-lib/install.html
 
-untar tar -xvf ta-lib-0.4.0-src.tar.gz
+    untar tar -xvf ta-lib-0.4.0-src.tar.gz
 
 cd /../ta-lib
 
